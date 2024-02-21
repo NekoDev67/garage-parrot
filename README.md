@@ -79,4 +79,4 @@ mot de passe : admin
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 (pour ce qui est de la création sur le site en ligne, elle se fait en passant directement par la base de données,
-puis en modifier le compte admin pour hasher le mot de passe, rappel il n'y qu'un seul compte admin sur le site)
+et en insérant le un password hashé que j'ai stocké au préalable quelques part. Rappel il n'y qu'un seul compte admin sur le site donc je ne préfére pas rajouter de fonction pour setup l'admin depuis le code.)
